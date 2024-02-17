@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 
-Hi there! My name is Huang Chu and you can call me Aurora. I’m currently pursuing my undergraduate degree in Energy and Power Engineering at Hunan University. Now, I would like to briefly introduce myself from three aspects.
+Hi there! My name is Huang Chu and you can call me Aurora. I’m currently pursuing my undergraduate degree in Energy and Power Engineering at Hunan University. 
 
----
   - Academics
 ---
 
