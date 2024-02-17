@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "it's all about Huangchu"
+title: "it's all about Huang Chu"
 author_profile: true
 redirect_from: 
   - /about/
