@@ -8,7 +8,6 @@ venue: 'Energy'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Huang, Chu, Haixi Zhu, Yinjie Ma, and Jiaqiang E. 2023. ‘Evaluation of Lithium Battery Immersion Thermal Management Using a Novel Pentaerythritol Ester Coolant’. Energy 284:129250.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://doi.org/10.1016/j.energy.2023.129250)
 
