@@ -26,8 +26,10 @@ Research Projects
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Work Experience
+Internships
 ======
+Aug.2023
+-
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
