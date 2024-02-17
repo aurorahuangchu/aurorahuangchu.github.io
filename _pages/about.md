@@ -12,7 +12,13 @@ Hi there! My name is Huang Chu and you can call me Aurora. I’m currently pursu
 
    Academics
 ---
-   Over the past three years, my academic performance has steadily improved and I have consistently ranked first in major courses such as Engineering Fluid Mechanics, Materials Mechanics, and Combustion. Because of my excellent academic performance, I was awarded the Academic Scholarship in 2021, the School Second Class Scholarship in 2022, and the School Outstanding Student Award and School First Class Scholarship in 2023. Meanwhile, during my internship at Yuchai Machinery Group Co. LTD, I won the Outstanding Intern Award owing to my work ethic.
+   Over the past three years, my academic performance has steadily improved and I have consistently ranked first in major courses such as Engineering Fluid Mechanics, Materials Mechanics, and Combustion. Because of my excellent academic performance, I was awarded:
+   - the Academic Scholarship (2021)
+   - the School Second Class Scholarship (2022)
+   - the School Outstanding Student Award (2023)
+   - the School First Class Scholarship (2023)
+
+   Meanwhile, during my internship at Yuchai Machinery Group Co. LTD, I won the Outstanding Intern Award owing to my work ethic.
 
    Scientific Research
 ---
