@@ -11,8 +11,6 @@ redirect_from:
 Hi there! My name is Huang Chu and you can call me Aurora. I’m currently pursuing my undergraduate degree in Energy and Power Engineering at Hunan University. 
 
   - Academics
----
-
 Over the past three years, my academic performance has steadily improved and I have consistently ranked first in major courses such as Engineering Fluid Mechanics, Materials Mechanics, and Combustion. Because of my excellent academic performance, I was awarded the Academic Scholarship in 2021, the School Second Class Scholarship in 2022, and the School Outstanding Student Award and School First Class Scholarship in 2023. Meanwhile, being the class monitor, I won the Excellent Student Cadre Award in 2023. During my internship at Yuchai Machinery Group Co. LTD, I won the Outstanding Intern Award owing to my work ethic.
 
   - Scientific Research
