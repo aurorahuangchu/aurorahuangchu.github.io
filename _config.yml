@@ -20,7 +20,7 @@ repository               : "aurorahuangchu/aurorahuangchu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Huang Chu"
   pronouns         : # example: "she/her"  
   bio              : "The only direction is life that matters is forward"
