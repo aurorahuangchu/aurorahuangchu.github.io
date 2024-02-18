@@ -38,6 +38,7 @@ Research Projects
   * Observed and recorded various engine performance indicators such as dynamic indicators, and economic indicators;
   * Analyzed and evaluated engine performance and reliability;
   * Demonstrated proficiency in engine testing methods and data analysis techniques.
+* Awards: Outstanding Intern Award
 
 ## Technical Research and Development Engineer
 
