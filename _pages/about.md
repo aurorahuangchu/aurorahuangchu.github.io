@@ -28,8 +28,8 @@ Hi there! My name is Huang Chu and you can call me Aurora. I’m currently pursu
    
    In my junior year, I independently proposed a research topic and embarked on an in-depth investigation under the guidance of [<var>Prof. Yinjie Ma</var>](http://grjl.hnu.edu.cn/p/5BD5B9EF04D7DC1EE81FB1E3358E034B). In this study, we proposed a novel ester coolant for battery immersion cooling systems by experiment and compared its insulating performance with other coolants by simulation. Eventually, I **submitted a paper as the first author** to the <var>Energy</var>, and it was successfully published in 2023.
 
-   Extracurricular Activities
+   Extra-curricular Activities
 ---
-   As for extracurricular activities, I prefer fishing. Even if I get nothing, I still regard it as a nice mental reset and a great social tool. Through fishing, I have met many excellent senior citizens and learned knowledge from various fields. 
+   As for extra-curricular activities, I prefer fishing. Even if I get nothing, I still regard it as a nice mental reset and a great social tool. Through fishing, I have met many excellent senior citizens and learned knowledge from various fields. 
    
    Besides, I like watching football matches because I think football has its unique ability to unite people from different cultures, backgrounds, and languages under a common passion. This aligns with my motivation for pursuing my Doctor's degree abroad.
