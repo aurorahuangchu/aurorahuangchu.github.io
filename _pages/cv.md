@@ -28,10 +28,10 @@ Research Projects
 
 Internships
 ======
-Intern
---
-Aug.2023
----
+# Intern
+
+## Aug.2023
+
 Guangxi Yuchai Machinery Group Co., Ltd
 * Duties includes:
   * Participated in engine bench testing (including startup, operation, adjustment, and shutdown procedures);
