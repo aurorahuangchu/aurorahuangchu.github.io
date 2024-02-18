@@ -20,11 +20,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Research Projects
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Internships
 ======
