@@ -18,7 +18,7 @@ Hi there! My name is Huang Chu and you can call me Aurora. I’m currently pursu
    - the School Outstanding Student Award (2023)
    - the School First Class Scholarship (2023)
 
-   Meanwhile, during my internship at Yuchai Machinery Group Co. LTD, I won the Outstanding Intern Award owing to my work ethic.
+   Meanwhile, during my internship at <var>Yuchai Machinery Group Co. LTD</var>, I won the Outstanding Intern Award owing to my work ethic.
 
    Scientific Research
 ---
