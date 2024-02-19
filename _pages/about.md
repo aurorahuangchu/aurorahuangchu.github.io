@@ -33,3 +33,9 @@ Hi there! My name is Huang Chu and you can call me Aurora. I’m currently pursu
    As for extra-curricular activities, I prefer fishing. Even if I get nothing, I still regard it as a nice mental reset and a great social tool. Through fishing, I have met many excellent senior citizens and learned knowledge from various fields. 
    
    Besides, I like watching football matches because I think football has its unique ability to unite people from different cultures, backgrounds, and languages under a common passion. This aligns with my motivation for pursuing my Doctor's degree abroad.
+
+<figure class="half">
+    <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/image-filename-1.jpg"></a>
+    <a href="/assets/images/image-filename-2-large.jpg"><img src="/assets/images/image-filename-2.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
