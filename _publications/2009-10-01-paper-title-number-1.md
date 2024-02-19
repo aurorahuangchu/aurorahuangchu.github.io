@@ -16,6 +16,6 @@ citation: 'Huang, Chu, Haixi Zhu, Yinjie Ma, and Jiaqiang E. 2023. ‘Evaluation
 <img src="images\publication1.jpg">
 
 <figure class="half">
-    <a href="images\publication1.jpg" width="45%"><img src="images\publication1.jpg" width="45%"></a>
-    <a href="images\publication1.jpg" width="45%"><img src="images\publication1.jpg" width="45%"></a>
+    <a href="images\battery1.jpg"><img src="images\battery1.jpg"></a>
+    <a href="images\battery2.jpg"><img src="images\battery2.jpg"></a>
 </figure>
