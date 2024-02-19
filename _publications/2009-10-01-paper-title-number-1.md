@@ -13,4 +13,9 @@ citation: 'Huang, Chu, Haixi Zhu, Yinjie Ma, and Jiaqiang E. 2023. ‘Evaluation
 
 <img src=".\images\publication1.jpg">
 
-<img src="images\publication2.jpg">
+<img src="images\publication1.jpg">
+
+<figure class="half">
+    <a href="images\publication1.jpg" width="45%"><img src="images\publication1.jpg" width="45%"></a>
+    <a href="images\publication1.jpg" width="45%"><img src="images\publication1.jpg" width="45%"></a>
+</figure>
