@@ -38,7 +38,7 @@ Research Projects
   * Observed and recorded various engine performance indicators such as dynamic indicators, and economic indicators;
   * Analyzed and evaluated engine performance and reliability;
   * Demonstrated proficiency in engine testing methods and data analysis techniques.
-* Awards: Outstanding Intern Award
+* Awards: Outstanding Intern Award `Show`
 
 ## Technical Research and Development Engineer
 
@@ -60,16 +60,3 @@ Research Projects
   * Engaged in the design and development of electronic products (e.g. circuit design, hardware selection, and embedded system development)；
   * Participated in the selection of electronic components and materials, cooperating with suppliers；
   * Responded to technical malfunctions during the production process and performed necessary repair work to minimize production interruptions.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
