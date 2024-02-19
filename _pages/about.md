@@ -36,6 +36,6 @@ Hi there! My name is Huang Chu and you can call me Aurora. I’m currently pursu
    Besides, I like watching football matches because I think football has its unique ability to unite people from different cultures, backgrounds, and languages under a common passion. This aligns with my motivation for pursuing my Doctor's degree abroad.
 
 <figure class="half">
-    <a href="images\football.jpg"><img src="images\fishing.jpg"></a>
+    <a href="images\fishing.jpg"><img src="images\fishing.jpg"></a>
     <a href="images\football.jpg"><img src="images\football.jpg"></a>
 </figure>
